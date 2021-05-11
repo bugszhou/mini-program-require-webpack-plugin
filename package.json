@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/bugszhou/mini-program-require-webpack-plugin#readme",
   "dependencies": {
-    "webpack": "^5.37.0",
     "webpack-sources": "^2.2.0"
   },
   "peerDependencies": {
