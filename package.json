@@ -1,0 +1,32 @@
+{
+  "name": "mini-program-require-webpack-plugin",
+  "version": "0.0.1",
+  "description": "小程序加载运行时插件",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/mini-program-require-webpack-plugin.git"
+  },
+  "keywords": [
+    "wechat",
+    "mini",
+    "program",
+    "alipay",
+    "swan"
+  ],
+  "author": "bugszhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/mini-program-require-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/bugszhou/mini-program-require-webpack-plugin#readme",
+  "dependencies": {
+    "webpack": "^5.37.0"
+  },
+  "peerDependencies": {
+    "webpack": ">=5.0.0"
+  }
+}
