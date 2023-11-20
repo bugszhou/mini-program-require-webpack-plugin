@@ -17,7 +17,7 @@
     "alipay",
     "swan"
   ],
-  "author": "bugszhou",
+  "author": "yiri.zhou",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bugszhou/mini-program-require-webpack-plugin/issues"
