@@ -1,6 +1,6 @@
 {
   "name": "mini-program-require-webpack-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "小程序加载运行时插件",
   "main": "lib/index.js",
   "scripts": {
